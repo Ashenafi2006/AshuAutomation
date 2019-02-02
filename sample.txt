@@ -6,8 +6,4 @@ another line so ashu can write on the 4th line
 <<<<<<< HEAD
 this is the last from Femi
 
-Last line ashu change
-=======
-created for conflict
-more conflict
->>>>>>> master
+resolved
