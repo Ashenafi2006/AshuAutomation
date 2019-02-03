@@ -3,12 +3,4 @@ this was created for conflict
 writing on the second line for fun
 this is now the third line from Femi
 another line so ashu can write on the 4th line
-<<<<<<< HEAD
-this is the last from Femi, resolved!!
-ashu pull request!
-sdasahhhhhhhhhhhhhhhh!!
-bbbnbbbbbbbbbbbbbbb
-kkkkkkkk
-oooooooooooooo
-
-pull request!!
+For conflict resolve!
